@@ -1,2 +1,4 @@
 # ParallelFor
-配列を並列に処理するライブラリ(pthreads)
+配列を並列に処理するためのライブラリ(pthreads)
+### 参考
+https://github.com/hironobu-s/parallel-for
